@@ -1,0 +1,1 @@
+web: gunicorn Gooner.wsgi --log-file -
